@@ -1,4 +1,3 @@
-Perfecto, aquí tienes una plantilla **totalmente editable** y **sin datos personales predefinidos**, ideal para que cualquier persona la adapte a su perfil fácilmente. Está organizada y con estilo visual atractivo, lista para usar en un README de GitHub:
 
 ---
 
