@@ -39,8 +39,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=stivenhv12&theme=tokyonight&hide_border=true&border_radius=10" />
   <br><br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stivenhv12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
+
 
 ---
 
